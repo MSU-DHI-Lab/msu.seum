@@ -1,4 +1,4 @@
 msu.seum
 ========
 
-iOS application for the MSUseum project.
+Source files for iOS version of msu.seum mobile app
