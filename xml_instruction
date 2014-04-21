@@ -1,0 +1,45 @@
+----Instruction for editing media.xml----
+1. Exhibit codes and corresponding exhibit names:
+	Exhibit 1: Saints' Rest: Beginnings
+	Exhibit 2: Cowles House: Beginnings
+	Exhibit 3: Faculty Row: Beginnings
+	Exhibit 4: College Hall: Beginnings
+	Exhibit 5: Williams Hall: Beginnings
+	
+	Exhibit 6: Saints' Rest: Foundation
+	Exhibit 7: Linton Hall: Foundation
+	Exhibit 8: W.J. Beal Garden: Foundation
+	Exhibit 9: Morrill Hall: Foundation
+
+	Exhibit 10: College hall: Expansion
+	Exhibit 11: Artillery Garage: Expansion
+	Exhibit 12: Williams Hall: Expansion
+
+	Exhibit 13: Faculty Row: Legacy
+	Exhibit 14: MAC Union: Legacy
+	Exhibit 15: Beaumont Tower: Legacy
+
+	Exhibit 16: Saints' Rest: Discovery
+	Exhibit 17: Faculty Row: Discovery
+	Exhibit 18: Beal Street Survey: Discovery
+	Exhibit 19: College Hall: Discovery
+	Exhibit 20: Field School 2010: Discovery
+	Exhibit 21: Bessey Hall/North River Survey
+	Exhibit 22: Field School 2011
+
+2. Tags and corresponding information
+	smallpic: url of thumbs view pic
+	mediumpic: url of regular sized pic 
+	largepic: url of large sized pic 
+	description: the description/caption for media, the word limit is 6 lines.
+	**One "media" block contains all tags above as well as the title of the media.
+
+3. Structure of the xml file:
+	<exhibits>
+		<exhibit>
+			<media>
+				<description>
+				<smallpic>
+				<mediumpic>
+				<largepic>
+				
