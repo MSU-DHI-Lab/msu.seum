@@ -3,6 +3,8 @@ msu.seum
 
 Source files for iOS version of msu.seum mobile app
 
+![msu.seum logo](http://msu.seum.matrix.msu.edu/logo.png "msu.seum logo")
+
 ###Campus As Museum###
 
 The spaces that we inhabit and interact with on a daily basis are made up of hidden layers of cultural activity that build up (quite literally) over time. While museum exhibits and history texts represent this cultural heritage, they don’t allow the public to meaningfully engage with place-based heritage . In addition, traditional museum exhibits rarely explore the two-sided nature of cultural heritage: the basic information about objects or locations on one hand, and the process by which scholars have reached those conclusions on the other. In short, the exciting scholarly narrative of cultural heritage is often hidden from the public.
